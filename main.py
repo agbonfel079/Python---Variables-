@@ -3,8 +3,8 @@ Variable Assignment
 '''
 
 # add 'John' to the variable 'name'
-#name = "John"
-#print(name)
+name = "John"
+print(name)
 
 # ================================
 
@@ -104,14 +104,14 @@ Object Reference
 # pb  ----------> int  20
 # score --------> str 'completed'
 # --------------> int  100
-pb  = 20
-score  = 100
-score  =  'Completed'
+# pb  = 20
+# score  = 100
+# score  =  'Completed'
 
-print (type(score))
-print(type(pb))
-print(score)
-print(pb)
+# print (type(score))
+# print(type(pb))
+# print(score)
+# print(pb)
 
 
 
